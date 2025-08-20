@@ -3,7 +3,7 @@ print ("Hola Mundo!")
 nombre = input ("Por favor, ingresar tu nombre: ")
 print (f"Hola {nombre}!")
 
-nombre = input ("ingresar tyu nombre: ")
+nombre = input ("ingresar tu nombre: ")
 apellido = input ("ingresar tu apellido: ")
 edad = input("ingresar tu edad: ")
 residencia = input("ingresa tu lugar de residencia: ")
